@@ -1,0 +1,6 @@
+How does this work/
+
+This is a python script file. Don't run it on python. Copy File on Kali desktop. Open Kali Terminal(cmd), write these commands:
+python3 scanner.py <ip-address>
+
+Then, the script will scan for open ports on the provided IP address. Its just a basic port scanner but works.
